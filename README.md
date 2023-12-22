@@ -5,7 +5,6 @@
 📚 Studying Computer Science at City College of New York <br>
 💭 Learning Backend Engineering and Databases <br> 
 🧑🏽‍💻 I enjoy attending hackathons & blogging when I can <br>
-⚡ I meditate and like listening to podcasts <br>
 🧠 Background in Data Science and AI/ML 
 
 ### Languages:
