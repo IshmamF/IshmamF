@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ishmam</h1>
 <h3 align="center">Software Engineer in New York City</h3>
-<img align="right" alt="coding" width="350" src="https://media.licdn.com/dms/image/D4E2DAQH8lBht3ybJdQ/profile-treasury-image-shrink_1280_1280/0/1696568846385?e=1703826000&v=beta&t=E28yIQl_7955H2GmdqvpETG1T3Mzysl04Yu1CRnvxuE">
+<img align="right" alt="coding" width="350" src="./applepfp.jpeg">
 
 📚 Studying Computer Science at City College of New York <br>
 💭 Learning Backend Engineering and Databases <br> 
