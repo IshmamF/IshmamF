@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="350" src="./applepfp.jpeg">
 
 📚 Studying Computer Science at City College of New York <br>
-💭 Learning Backend Engineering and Databases <br> 
+💭 Learning Backend Engineering and Data Science <br> 
 🧑🏽‍💻 I enjoy attending hackathons & blogging when I can <br>
 🧠 Background in Data Science and AI/ML 
 
