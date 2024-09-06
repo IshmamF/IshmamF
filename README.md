@@ -22,7 +22,7 @@
     <td>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <br>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
     </td>
@@ -48,7 +48,9 @@
     <td>
       <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/> <br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
      </td>
   </tr>
 </table>
