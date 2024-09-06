@@ -38,8 +38,9 @@
   <tr>
     <td>Databases</td>
     <td>
-      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
+      <img src="https://img.shields.io/badge/Firebase-green?style=flat-square&logo=firebase&logoColor=white&color=%23DD2C00"/>
       <img src="https://img.shields.io/badge/MySQL-%23336791.svg?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white&color=%2347A248"/>
     </td>
   </tr>
   <tr>
