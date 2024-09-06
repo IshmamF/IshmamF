@@ -48,8 +48,6 @@
     <td>
       <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/>
      </td>
   </tr>
