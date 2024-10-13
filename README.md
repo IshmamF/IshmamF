@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer in New York City</h3>
 <img align="right" alt="coding" width="350" src="./applepfp.jpeg">
 
-📚 Studying Computer Science at City College of New York <br>
-💭 Learning Backend Engineering and Data Science <br> 
-🧑🏽‍💻 I enjoy hackathons, Mixed Martial Arts & blogging when I can <br>
-🧠 Background in Data Science and AI/ML 
+Hi, I study Computer Science at City College of New York. <br>
+I enjoy hackathons, fitness related activities like Mixed Martial Arts and soccer, reading & writing blogs. <br>
+My background consists of backend engineering, web development (full stack) and data science/AI/ML. <br>
+Would love to connect and meet new people, feel free to reach out! <br>
 
 ### Languages and Frameworks
 <table>
