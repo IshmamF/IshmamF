@@ -4,7 +4,7 @@
 
 Hi, I study Computer Science at City College of New York. <br>
 I enjoy hackathons, fitness related activities like Mixed Martial Arts and soccer, reading & writing blogs. <br>
-My background consists of backend engineering, web development (full stack) and data science/AI/ML. <br>
+I'm primarily skilled in backend engineering, but have a background in web development (full stack) and data science/AI/ML. <br>
 Would love to connect and meet new people, feel free to reach out! <br>
 
 ### Languages and Frameworks
